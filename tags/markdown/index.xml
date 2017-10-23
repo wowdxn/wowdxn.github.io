@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Hello, World!</title>
+    <title>Markdown on 小白的博客</title>
     <link>https://wowdxn.github.io/tags/markdown/</link>
-    <description>Recent content in Markdown on Hello, World!</description>
+    <description>Recent content in Markdown on 小白的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 20 May 2017 12:10:51 +0200</lastBuildDate>
     

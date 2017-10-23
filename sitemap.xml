@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wowdxn.github.io/2017/10/23/hello-world/</loc>
+    <lastmod>2017-10-23T23:18:06+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wowdxn.github.io/2017/05/20/markdown-cheat-sheet/</loc>
     <lastmod>2017-05-20T12:10:51+02:00</lastmod>
   </url>
@@ -23,30 +28,7 @@
   </url>
   
   <url>
-    <loc>https://wowdxn.github.io/2015/10/02/how-to-add-pages-to-the-menu/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wowdxn.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wowdxn.github.io/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wowdxn.github.io/</loc>
-    <lastmod>2017-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wowdxn.github.io/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,31 +40,19 @@
   
   <url>
     <loc>https://wowdxn.github.io/post/</loc>
-    <lastmod>2017-05-20T12:10:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wowdxn.github.io/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wowdxn.github.io/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-10-23T23:18:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wowdxn.github.io/tags/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-05-20T12:10:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wowdxn.github.io/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://wowdxn.github.io/</loc>
+    <lastmod>2017-10-23T23:18:06+08:00</lastmod>
     <priority>0</priority>
   </url>
   

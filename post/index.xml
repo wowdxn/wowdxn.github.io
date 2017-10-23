@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello, World!</title>
+    <title>Posts on 小白的博客</title>
     <link>https://wowdxn.github.io/post/</link>
-    <description>Recent content in Posts on Hello, World!</description>
+    <description>Recent content in Posts on 小白的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sat, 20 May 2017 12:10:51 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 23:18:06 +0800</lastBuildDate>
     
 	<atom:link href="https://wowdxn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://wowdxn.github.io/2017/10/23/hello-world/</link>
+      <pubDate>Mon, 23 Oct 2017 23:18:06 +0800</pubDate>
+      
+      <guid>https://wowdxn.github.io/2017/10/23/hello-world/</guid>
+      <description>这是一篇测试的文章。</description>
+    </item>
     
     <item>
       <title>Markdown Cheat Sheet</title>
@@ -45,16 +54,6 @@
       <description>&lt;p&gt;Mathematical equations in form of LaTeX or MathML code can be rendered with the support of &lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;. MathML works out of the box. If you&amp;rsquo;re using LaTeX you need to wrap your equation with &lt;code&gt;$$&lt;/code&gt; as shown in the following example:&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>How to add pages to the menu</title>
-      <link>https://wowdxn.github.io/2015/10/02/how-to-add-pages-to-the-menu/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://wowdxn.github.io/2015/10/02/how-to-add-pages-to-the-menu/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  </description>
     </item>
     
   </channel>
