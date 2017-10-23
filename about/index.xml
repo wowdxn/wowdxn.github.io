@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Hello, World!</title>
-    <link>wowdxn.github.io/about/</link>
+    <link>https://wowdxn.github.io/about/</link>
     <description>Recent content in About on Hello, World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Fri, 19 May 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="wowdxn.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wowdxn.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
